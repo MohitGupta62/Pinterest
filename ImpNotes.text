@@ -1,0 +1,16 @@
+data association - 
+Ek model se doosre model ke data ko jod dena id ke through, 
+matlab ki agar aap ke pass ek user hai to wo post bannayegga hi,
+jab post bannayegga tp wo ek user ke dwaara hi baneyga, to hum
+kya karte hai jan do aise data aapas me closely related hote hai to dono ko jod dete hai,
+kii ek model ke bame huye data ki id ko doosre model ke data ko dedete hai aur is 
+model ke data ki id pichhle model ke data ko dedete hai.
+
+
+/router par login and signup hoga
+/prifile par aapka aapki dekhegi and aapke saved posts dikhega, aur ek uploaded section hoga jo abhi nhi bana rhe 
+/feed yaha par saari images dekhegi
+/click karke image open hojaaygi save kar skte hai
+/board/:boardname poora board dikhega
+
+
